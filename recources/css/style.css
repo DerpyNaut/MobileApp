@@ -1,0 +1,35 @@
+body {
+  background-color: black;
+  text-align: center;
+}
+
+.verdana {
+  font-family: verdana;
+}
+
+.aquacolor {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+.copyright {
+  text-align: right;
+  color: gray;
+}
+
+
+.title {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+
+.titleTwo {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.content {
+  font-size: 21px;
+  color: gray;
+}
